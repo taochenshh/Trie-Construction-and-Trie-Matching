@@ -29,6 +29,7 @@ AC
 ```
 
 **trie_matching.cpp**
+
 Given a string Text and Trie(Patterns), we can quickly check whether any string from Patterns matches a prefix of Text.
 
 * Input: The first line of the input contains a string Text, the second line contains an integer 𝑛 ,each of the following 𝑛 lines contains a pattern from Patterns = {𝑝1, . . . , 𝑝𝑛}
@@ -46,6 +47,7 @@ GGGT
 1 4 11 15
 ```
 **trie_matching_extended.cpp**
+
 Extend TrieMatching algorithm so that it handles correctly cases when one of the patterns is a prefix of another one
 ###Example:
 ####Input:
